@@ -1,0 +1,1 @@
+{"root":["./types.ts","./vite-env.d.ts","./vite.config.ts","./services/geminiservice.ts","./app.tsx","./constant.tsx","./index.tsx"],"version":"5.9.3"}

@@ -1,0 +1,7 @@
+{
+  "name": "Skill Bridge AI",
+  "description": "An intelligent AI-powered chatbot designed to help learners identify goals, track skill progress, and receive guidance on technical skills and programming languages.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
